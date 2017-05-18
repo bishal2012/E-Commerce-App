@@ -30,6 +30,9 @@ This is a simple e-commerce app build for learning purpose.
 ![main_content](https://cloud.githubusercontent.com/assets/25065479/26212671/ecb9c39e-3c13-11e7-9a4c-8421b0aa9623.jpeg)
 ![navigation_drawer](https://cloud.githubusercontent.com/assets/25065479/26212672/ecc1c648-3c13-11e7-8d8d-57eb6d782e97.jpeg)
 ![search](https://cloud.githubusercontent.com/assets/25065479/26212676/ecf95e0a-3c13-11e7-97a1-3784d4082053.jpeg)
+![details](https://cloud.githubusercontent.com/assets/25065479/26212900/c6aece0a-3c14-11e7-8590-a450f922a0e4.jpeg)
+![splash](https://cloud.githubusercontent.com/assets/25065479/26212899/c6ae976e-3c14-11e7-90f8-a6117d2eccd4.jpeg)
+
 
 
 
