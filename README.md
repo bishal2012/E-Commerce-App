@@ -4,17 +4,17 @@ This is a simple e-commerce app build for learning purpose.
 
 ### This project have the following features:-
 
-- Display categories of product (eg Electronic,Furnitures)
-- Display products in a given category (TV,Microwave,Vaccum cleaner)
+- Display categories of product (eg Electronic Furniture)
+- Display products in a given category (TV,Microwave,Vacuum cleaner)
 - Show Product Details
 - Add any product  to cart and update total item count and amount
 - Store cart list in DB for persistant storage.
-- Whats new dialog on new update
+
  
 ### This project demonstrates 
 
 - Reusing Fragments in MVC architecture.
-- Material design patterns-Collpsable Toolbar, FAB etc
+- Material design patterns-Collapsable Toolbar, FAB etc
 - Loading and caching image from web URl with help of Glide
 - RecyclerView animation with JazzyListAnimation
 - View pager 3D cube animation with JazzyView Pager Transformations
